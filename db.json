@@ -2,15 +2,21 @@
   "data": [
     {
       "phone": "9988998899",
-      "password": "passme99"
+      {
+        "password": "passme99"
+      }
     },
     {
       "phone": "8899889988",
-      "password": "passme88"
+      {
+        "password": "passm88"
+      }
     },
     {
       "phone": "1122112211",
-      "password": "passme12"
+      {
+        "password": "passme12"
+      }
     }
   ]
 }
