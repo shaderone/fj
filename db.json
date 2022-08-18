@@ -1,4 +1,6 @@
-"data": {
-    "phone": "{9988998899}",
-   "password": "passme99}"
+{
+    "data": {
+        "phone": "{9988998899}",
+        "password": "passme99}"
+    }
 }
