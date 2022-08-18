@@ -3,6 +3,14 @@
     {
       "phone": "9988998899",
       "password": "passme99"
+    },
+    {
+      "phone": "8899889988",
+      "password": "passme88"
+    },
+    {
+      "phone": "1122112211",
+      "password": "passme12"
     }
   ]
 }
